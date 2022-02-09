@@ -5,6 +5,32 @@
       skills, to continue challenging myself and to do intersting things that
       matter.
       
+      My Skills
+Frontend
+ ☹😲😲😲Html5
+ C😋😋😋😋😋☺😋SS
+ Javascript
+ Angular
+ Material Design
+ Bootstrap
+Backend
+ PHP
+ Node.js
+ Express.js
+ SQL
+Database
+ SQL Database
+ MongoDB
+ Firebase
+Mobile App
+ Flutter
+ Java
+Designing
+ Adobe Photoshop
+ Adobe XD
+Git control
+ Gitgub
+ Bitbucket
 - 👀 I’m interested in  ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
