@@ -4,39 +4,52 @@
       and keep my options open but not too open to fail to improve my current
       skills, to continue challenging myself and to do intersting things that
       matter.
-      
-      My Skills
+     
+My Skills
 Frontend
- ☹😲😲😲Html5
- C😋😋😋😋😋☺😋SS
- Javascript
- Angular
- Material Design
- Bootstrap
+ -Html5
+ -CSS
+ -Javascript
+ -Angular
+ -Material Design
+ -Bootstrap
+ -React
+ <br>
+ 
+ 
 Backend
- PHP
- Node.js
- Express.js
- SQL
+ -PHP
+ -Node.js
+ -Express.js
+ -SQL
+ 
+ <br>
+ 
 Database
- SQL Database
- MongoDB
- Firebase
+ -SQL Database
+ -MongoDB
+  -Firebase
+
 Mobile App
- Flutter
- Java
-Designing
- Adobe Photoshop
- Adobe XD
+  -React Native
+  -Java
+  
+Graph Designing
+ -Adobe Photoshop
+ -Adobe XD
+ 
+
 Git control
- Gitgub
- Bitbucket
+ -Gitgub
+ -Bitbucket
+ 
+ 
 - 👀 I’m interested in  ...
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on your Project or Work on your Project 
 - 📫 How to reach me ...
-- Email to Kaindamathews@gmail.com 
-- l
+ Email to Kaindamathews@gmail.com 
+ whatsapp Me +2609414895
 
 <!---
 drmattk-sys/drmattk-sys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
