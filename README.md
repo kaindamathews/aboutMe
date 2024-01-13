@@ -17,7 +17,7 @@ I'm a passionate Full Stack Developer with expertise in both Web and Mobile deve
 
 ## Skills
 
-- **Programming Languages:** JavaScript, Python, Java, SQL, PHP, HTML, CSS
+- **Programming Languages:** JavaScript, Python, Java,C SHARP, SQL, PHP, HTML, CSS,
 - **Frontend Development:** React.js, Angular, Tailwind, Bootstrap, JavaScript, Figma, Adobe XD
 - **Backend Development:** PHP, Node.js, Django, .Net Framework, Spring Boot
 - **API/Web Services:** RESTful APIs, PHP, Node.js, Express.js
