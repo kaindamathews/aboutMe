@@ -2,7 +2,6 @@
 
 - **Email:** Kaindamathews@gmail.com
 - **Phone Number:** +260975403198, +260969414895
-- **Address:** Northrise Juba Chanda Street 15B, Ndola.
 - **LinkedIn Profile:** [Mathews Kainda](https://www.linkedin.com/in/mathews-kainda-a63187189)
 - **Github Profile:** [kaindamathews](https://github.com/kaindamathews)
 
