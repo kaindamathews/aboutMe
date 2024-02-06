@@ -1,3 +1,4 @@
+```markdown
 # Kainda Mathews - Software Developer
 
 ## About Me
@@ -9,7 +10,6 @@ I am a passionate Full Stack Developer with over 3 years of experience in crafti
 - **Programming Languages:** JavaScript, Python, Java, C#, SQL, PHP, HTML, CSS
 - **Frontend Development:** React.js, Angular, Tailwind, Bootstrap, JavaScript, Figma, Adobe XD
 - **Backend Development:** PHP, Node.js, Django, .Net Framework, Spring Boot
-- **API/Web Services:** RESTful APIs, PHP, Node.js, Express.js, Microservices
 - **Databases:** MySQL, MongoDB, PostgreSQL
 - **Mobile Development:** React Native (Android and iOS)
 - **Version Control:** Git
@@ -24,3 +24,4 @@ Feel free to reach out for collaboration or discussion on any projects!
 
 ---
 *Note: This document has been updated to reflect the latest information about my skills and ongoing learning pursuits.*
+```
