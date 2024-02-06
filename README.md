@@ -1,4 +1,3 @@
-```markdown
 # Kainda Mathews - Software Developer
 
 ## About Me
@@ -24,4 +23,3 @@ Feel free to reach out for collaboration or discussion on any projects!
 
 ---
 *Note: This document has been updated to reflect the latest information about my skills and ongoing learning pursuits.*
-```
