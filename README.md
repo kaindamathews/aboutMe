@@ -1,25 +1,38 @@
-# Kainda Mathews - Software Developer
+<style>
+  .profile {
+    background-color: black;
+    font-family: 'Bebas Neue', sans-serif;
+    color: white;
+    padding: 20px;
+  }
+</style>
 
-## About Me
+<div class="profile">
+  
+  # Kainda Mathews - Software Developer
 
-I am a passionate Full Stack Developer with over 3 years of experience in crafting elegant and efficient solutions. My expertise lies in both Web and Mobile development, specializing in JavaScript while also proficient in Python, Java, PHP, C#, and more.
+  ## About Me
 
-## Skills
+  I am a passionate Full Stack Developer with over 3 years of experience in crafting elegant and efficient solutions. My expertise lies in both Web and Mobile development, specializing in JavaScript while also proficient in Python, Java, PHP, C#, and more.
 
-- **Programming Languages:** JavaScript, Python, Java, C#, SQL, PHP, HTML, CSS
-- **Frontend Development:** React.js, Angular, Tailwind, Bootstrap, JavaScript, Figma, Adobe XD
-- **Backend Development:** PHP, Node.js, Django, .Net Framework, Spring Boot
-- **Databases:** MySQL, MongoDB, PostgreSQL
-- **Mobile Development:** React Native (Android and iOS)
-- **Version Control:** Git
-- **Operating Systems:** Windows, Linux
-- **Project Management:** Agile methodologies (Increment development, agile)
-- **Problem Solving:** Analytical thinking, debugging, troubleshooting
+  ## Skills
 
-## Update
-- Currently learning Flutter and improving my skills in C#.
+  - **Programming Languages:** JavaScript, Python, Java, C#, SQL, PHP, HTML, CSS
+  - **Frontend Development:** React.js, Angular, Tailwind, Bootstrap, JavaScript, Figma, Adobe XD
+  - **Backend Development:** PHP, Node.js, Django, .Net Framework, Spring Boot
+  - **API/Web Services:** RESTful APIs, PHP, Node.js, Express.js, Microservices
+  - **Databases:** MySQL, MongoDB, PostgreSQL
+  - **Mobile Development:** React Native (Android and iOS)
+  - **Version Control:** Git
+  - **Operating Systems:** Windows, Linux
+  - **Project Management:** Agile methodologies (Increment development, agile)
+  - **Problem Solving:** Analytical thinking, debugging, troubleshooting
 
-Feel free to reach out for collaboration or discussion on any projects!
+  ## Update
+  - Currently learning Flutter and improving my skills in C#.
 
----
-*Note: This document has been updated to reflect the latest information about my skills and ongoing learning pursuits.*
+  Feel free to reach out for collaboration or discussion on any projects!
+
+  ---
+  *Note: This document has been updated to reflect the latest information about my skills and ongoing learning pursuits.*
+</div>
