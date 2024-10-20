@@ -36,5 +36,5 @@
   <p>Feel free to reach out for collaboration or discussion on any projects!</p>
 
   <p><em>Note: This document has been updated to reflect the latest information about my skills and ongoing learning pursuits.</em></p>
-
+https://www.linkedin.com/learning/certificates/7a3ff8ebe856e71051d0248f6c4b288ea81c320a8df3a2774794ea48828d30e2?trk=share_certificate
 </div>
